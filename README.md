@@ -1,6 +1,6 @@
 # Introduction
 
-This is a repository created by Aaden
+This is a repository created by Aaden & Steve
 
 ## Usage
 
