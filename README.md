@@ -11,3 +11,5 @@ Run this command to execute the application:
 Another line
 
 ```
+this is a code block
+```
