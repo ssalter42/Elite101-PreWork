@@ -8,7 +8,7 @@ Run this command to execute the application:
 
 `python filename.py`
 
-Another line 123
+Another line
 
 ```
 this is some code
